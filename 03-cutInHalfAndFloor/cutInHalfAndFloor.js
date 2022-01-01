@@ -1,5 +1,6 @@
 function cutInHalfAndFloor(num) {
-  // Insert code here;
+  let sum = num/2
+	return Math.floor(sum)
 }
 
 // Do not edit this line;
